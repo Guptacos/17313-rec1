@@ -3,7 +3,7 @@
  */
 
 public final class Main {
-  private static final String toPrint = "Hello World! I've been at CMU for 3 years.";
+  private static final String toPrint = "Hello World! My name is Niko and I've been at CMU for 3 years.";
 
   private Main() {
   }
